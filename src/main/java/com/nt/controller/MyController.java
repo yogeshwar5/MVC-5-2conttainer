@@ -13,6 +13,7 @@ public class MyController extends AbstractController {
 	@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response)
 			throws Exception {
+		System.out.println("Hi");
 		Date d=null;
 		d=new Date();
 		
