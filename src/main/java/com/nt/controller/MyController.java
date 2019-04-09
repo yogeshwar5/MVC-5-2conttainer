@@ -14,6 +14,7 @@ public class MyController extends AbstractController {
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response)
 			throws Exception {
 		System.out.println("Hi");
+		System.out.println("hello");
 		Date d=null;
 		d=new Date();
 		
