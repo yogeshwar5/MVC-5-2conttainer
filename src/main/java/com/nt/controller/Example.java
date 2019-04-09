@@ -6,6 +6,9 @@ public class Example {
 		
 
   System.out.println("from example");
+		 System.out.println("from example");
+		 System.out.println("from example");
+		 System.out.println("from example");
 	}
 	}
 
